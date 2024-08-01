@@ -1,3 +1,13 @@
+Tic Tac Toe is a classic two-player strategy game now brought to life with interactive programming. Played on a 3x3 grid, each player takes turns selecting a cell to place their mark, either "X" or "O". The goal is to be the first to arrange three of your marks in a row, column, or diagonal.
+
+In this programmed version of Tic Tac Toe, the game features intuitive click-based interaction, ensuring a smooth and engaging user experience. Players can enjoy features such as:
+
+Dynamic Game Board: Click on any empty cell to place your mark.
+Winning Detection: The game automatically detects winning combinations and highlights the winning row, column, or diagonal.
+Reset Button: Easily restart the game with a click of a button, resetting the board for a new challenge.
+Responsive Design: Play on various devices, from desktop computers to mobile phones, with a layout that adjusts seamlessly to different screen sizes.
+Whether you’re a beginner or a seasoned player, this programmed version of Tic Tac Toe offers a convenient and entertaining way to enjoy the timeless game with friends or practice your strategy skills.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
